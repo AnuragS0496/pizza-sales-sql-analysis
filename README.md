@@ -48,7 +48,7 @@ The dataset contains information about:
 - Most ordered pizza - The Classic Deluxe Pizza
 - Most Revenue Generated pizza - The Thai Chicken Pizza
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Advanced SQL (JOINs, Window Functions, Aggregations, Rank, group by, order by)
 - Business Insight Generation
