@@ -53,7 +53,10 @@ A MySQL-based data analysis project exploring pizza sales data to generate actio
 
 - Attached screenshots of few Queries:
 - Orders![Top 3 Pizza by revenue](https://github.com/user-attachments/assets/b93b5dae-4f23-4ea9-9ad0-06449fc9d4f3)
+ 
 ![Order Distribution by Hours](https://github.com/user-attachments/assets/e50a40b0-f6c9-4aba-9f89-b65880ff0fce)
+
 ![Cumulative Revenue Over time](https://github.com/user-attachments/assets/57311572-8cb1-4774-b235-06678e5b9232)
+
 ![5 Most ordered pizza](https://github.com/user-attachments/assets/d91d1091-16e8-4283-be5f-5a9bb85e755c)
 
